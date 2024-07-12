@@ -5,9 +5,15 @@
 	justify-content: space-between;
 	align-items: center;
 	text-align: center;
-	height: 50px;
+	min-height: 50px;
 	margin-top: 10px;
 }
 .foot_when{
 	line-height: 30px;
+}
+@media (max-width:800px){
+	.foot_row{
+		flex-wrap: wrap;
+		justify-content: center;
+	}
 }
