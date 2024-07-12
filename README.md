@@ -1,6 +1,8 @@
 # React + Vite
 
+Header file is not an App.jsx, - Product.jsx
 FOR DEPLOY IN THE BROWSER: npm run dev
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
